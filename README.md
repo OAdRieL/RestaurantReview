@@ -1,2 +1,2 @@
 # RestaurantReview
-Francis Collage Project
+Web Portal for Restaurant Review
